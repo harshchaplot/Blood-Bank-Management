@@ -92,12 +92,6 @@ Make changes in `.env`
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [VS Code](https://code.visualstudio.com/) - Awesome IDE
 
-## ✍️ Authors
-
-[@rishav394](https://github.com/rishav394) - Initial work
-
-See also the list of [contributors](https://github.com/rishav394/bloodbank/graphs/contributors) who participated in this project.
-
 ## 🎉 Acknowledgements
 
 - Hat tip to anyone whose code was used
